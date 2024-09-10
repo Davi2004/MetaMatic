@@ -22,17 +22,18 @@ console.log(mensagem);
     // Object
     let meta = {
         value: 'Ler um livro todo mês',
-        address: 2,
-        checked: false,
-        log: (info) => {
-            console.log(info)
-        }
+        checked: true,
     }
 
-    meta.value = "Não é mais 'ler um livro'! "
-    meta.log(meta.value)
+    let metas = [
+        meta,
+        {
+            value: "Caminhar 20 minutos todos os dias",
+            checked: false
+        }
+    ]
 
-
+    console.log(metas[1].value)
 
     // Function  // Arrow function:
 
