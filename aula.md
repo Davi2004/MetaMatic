@@ -8,9 +8,9 @@ Maneira de dar instruções ao computador. Assim como o lego, você irá utiliza
 
 - [✓] Comentários
 - [✓] Declaração de variáveis (const, let)
+- [✓] Tipos de dados (string, number, boolean)
 - Operadores (Atribuição, Concatenação, Matemáticos, Lógicos)
-- Tipos de dados (string, number, boolean)
-- Estrutura de dados (functions, objects, array)
+- [✓] Estrutura de dados (functions, objects, array)
 - Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
 
@@ -29,9 +29,31 @@ Maneira de dar instruções ao computador. Assim como o lego, você irá utiliza
 
 - Strings (Textos - Caracteres) = "" | '' | ``
 - Number: 2 | 1.5
-- Function
+- Boolean: False | True
 
-# Operadores:
+## Operadores:
 
 - Operadores de atribuição de valor:
-    - Operador que atribui valor a alguma coisa '='
+    - Operador que atribui valor a alguma coisa '=' ;
+- Operadores de concatenação:
+    - ' + '
+    - ' ${} ' tudo isso dentro de ``
+
+## Estrutura de dados:
+
+### Array:
+
+- Lista que contém qualquer tipo de dado;
+
+### Objetos: 
+
+- Atributos e métodos;
+- Criação e Manipulação de objetos;
+- Acesso a propriedades de objetos;
+
+### Functions:
+
+- Function
+    - Sintaxe: function nomeFunção() {} 
+- Arrow Function
+    - Sintaxe: const funçãoQualquer = () => {}
