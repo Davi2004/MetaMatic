@@ -61,3 +61,9 @@ Maneira de dar instruções ao computador. Assim como o lego, você irá utiliza
 ## Estrutura de repetição:
 
 - While
+
+## Condicionais:
+
+- Switch
+
+## Controle de fluxo:

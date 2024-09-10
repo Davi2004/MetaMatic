@@ -46,7 +46,7 @@ console.log(mensagem);
 /* Estrutura de repetição: 
 
     While:
-    
+
     const start = () => {
         let count = 0
         while (count <= 10) {
@@ -57,4 +57,30 @@ console.log(mensagem);
 
     start()
 
+*/
+
+/* Condicionais
+
+    Switch:
+
+    const start = () => {
+
+    while (true) {
+
+        let opcao = "cadastrar"
+        switch(opcao) {
+            case "cadastrar":
+                console.log("Vamos cadastrar")
+                break;
+            case "listar":
+                console.log("Vamos listar")
+                break;
+            case "sair":
+                return
+            }
+        }
+    }
+
+    start()
+    
 */
