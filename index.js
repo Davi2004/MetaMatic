@@ -8,7 +8,8 @@ console.log(mensagem);
 
 */
 
-/*
+/* Estrutura de dados (Array, Object & functions)
+    
     // Arrays, Objects:
 
     // Array:
@@ -17,23 +18,26 @@ console.log(mensagem);
     // Formas de concatenação
     console.log(metas[1] + " " + metas[0]) 
     console.log(`${metas[1]} ${metas[0]}`) // Forma que eu prefiro
-*/
-
-// Object
-let meta = {
-    value: 'Ler um livro todo mês',
-    address: 2,
-    checked: false,
-    log: (info) => {
-        console.log(info)
+    
+    // Object
+    let meta = {
+        value: 'Ler um livro todo mês',
+        address: 2,
+        checked: false,
+        log: (info) => {
+            console.log(info)
+        }
     }
-}
 
-meta.value = "Não é mais 'ler um livro'! "
-meta.log(meta.value)
+    meta.value = "Não é mais 'ler um livro'! "
+    meta.log(meta.value)
 
-// Function  // Arrow function:
 
-function criarMetas() {} // Function
 
-const criarMeta = () => {} // Arrow Function
+    // Function  // Arrow function:
+
+    function criarMetas() {} // Function
+
+    const criarMeta = () => {} // Arrow Function
+
+*/
