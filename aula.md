@@ -57,3 +57,7 @@ Maneira de dar instruções ao computador. Assim como o lego, você irá utiliza
     - Sintaxe: function nomeFunção() {} 
 - Arrow Function
     - Sintaxe: const funçãoQualquer = () => {}
+
+## Estrutura de repetição:
+
+- While
