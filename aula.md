@@ -6,13 +6,13 @@ Maneira de dar instruções ao computador. Assim como o lego, você irá utiliza
 
 ## Peças de uma linguagem:
 
-- [✓] Comentários
-- [✓] Declaração de variáveis (const, let)
-- [✓] Tipos de dados (string, number, boolean)
-- [] Operadores (Atribuição, Concatenação, Matemáticos, Lógicos)
-- [✓] Estrutura de dados (functions, objects, array)
-- [] Controle de fluxo (if/else)
-- [] Estrutura de repetição (for, while)
+- Comentários
+- Declaração de variáveis (const, let)
+- Tipos de dados (string, number, boolean)
+- Operadores (Atribuição, Concatenação, Comparação, Matemáticos, Lógicos)
+- Estrutura de dados (functions, objects, array)
+- Controle de fluxo (if/else)
+- Estrutura de repetição (for, while)
 
 ## Fases da resolução de um problema:
 
@@ -38,6 +38,11 @@ Maneira de dar instruções ao computador. Assim como o lego, você irá utiliza
 - Operadores de concatenação:
     - ' + '
     - ' ${} ' tudo isso dentro de ``
+- Operadores de Comparação:
+    - Operador que compara duas informações e analisa se são iguais, sendo seu sinal o '==' ;
+    - Operador que compara duas informações e analisa se são diferentes, sendo seu sinal o '!=' ;
+    - Operador que compara duas informações e analisa se um é maior que o outro ou igual, sendo seu sinal o '>=' ;
+    - Operador que compara duas informações e analisa se um é menor que o outro ou igual, sendo seu sinal o '<=' ;
 
 ## Estrutura de dados:
 
@@ -65,8 +70,13 @@ Maneira de dar instruções ao computador. Assim como o lego, você irá utiliza
 ## Controle de fluxo:
 
 - Switch
+- If/Else
 
 ## Módulos em Node.Js:
 
 - Importação de módulos (require, CommonJS);
 - Biblioteca 'inquirer' para criar prompts interativos;
+
+## Programação assíncrona e Promises:
+
+- Uso de funções assíncronas (Async / Await);
