@@ -59,7 +59,7 @@ console.log(mensagem);
 
 */
 
-/* Condicionais
+/* Controle de Fluxo
 
     Switch:
 
