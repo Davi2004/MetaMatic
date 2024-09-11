@@ -11,7 +11,7 @@ const cadastrarMeta = async () => {
     const meta = await input({ message: "Digite a meta:" })
 
     if ( meta.length == 0){
-        console.log("A meta não pode estar vazia.")
+        console.log("ALERTA! A meta não pode estar vazia!")
         return
     }
 
@@ -75,7 +75,6 @@ const start = async () => {
         switch(opcao) {
             case "cadastrar":
                 await cadastrarMeta()
-                console.log(metas)
                 break;
             case "listar":
                 await listarMetas()
