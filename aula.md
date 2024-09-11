@@ -9,10 +9,10 @@ Maneira de dar instruções ao computador. Assim como o lego, você irá utiliza
 - [✓] Comentários
 - [✓] Declaração de variáveis (const, let)
 - [✓] Tipos de dados (string, number, boolean)
-- Operadores (Atribuição, Concatenação, Matemáticos, Lógicos)
+- [] Operadores (Atribuição, Concatenação, Matemáticos, Lógicos)
 - [✓] Estrutura de dados (functions, objects, array)
-- Controle de fluxo (if/else)
-- Estrutura de repetição (for, while)
+- [] Controle de fluxo (if/else)
+- [] Estrutura de repetição (for, while)
 
 ## Fases da resolução de um problema:
 
@@ -62,8 +62,6 @@ Maneira de dar instruções ao computador. Assim como o lego, você irá utiliza
 
 - While
 
-## Condicionais:
+## Controle de fluxo:
 
 - Switch
-
-## Controle de fluxo:
