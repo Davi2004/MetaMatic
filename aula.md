@@ -49,6 +49,10 @@ Maneira de dar instruções ao computador. Assim como o lego, você irá utiliza
 ### Array:
 
 - Lista que contém qualquer tipo de dado;
+- Métodos de array:
+    - Push;
+    - Find;
+    - ForEach;
 
 ### Objetos: 
 
