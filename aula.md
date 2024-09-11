@@ -65,3 +65,8 @@ Maneira de dar instruções ao computador. Assim como o lego, você irá utiliza
 ## Controle de fluxo:
 
 - Switch
+
+## Módulos em Node.Js:
+
+- Importação de módulos (require, CommonJS);
+- Biblioteca 'inquirer' para criar prompts interativos;
