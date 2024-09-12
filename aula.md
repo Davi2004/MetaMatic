@@ -43,6 +43,8 @@ Maneira de dar instruções ao computador. Assim como o lego, você irá utiliza
     - Operador que compara duas informações e analisa se são diferentes, sendo seu sinal o '!=' ;
     - Operador que compara duas informações e analisa se um é maior que o outro ou igual, sendo seu sinal o '>=' ;
     - Operador que compara duas informações e analisa se um é menor que o outro ou igual, sendo seu sinal o '<=' ;
+- Spread Operator:
+    - ' ... '
 
 ## Estrutura de dados:
 
@@ -51,8 +53,10 @@ Maneira de dar instruções ao computador. Assim como o lego, você irá utiliza
 - Lista que contém qualquer tipo de dado;
 - Métodos de array:
     - Push;
-    - Find;
-    - ForEach;
+    > A lista abaixo é chamada de HOF ( Higher Order Functions ) são chamadas assim por que, sempre recebem uma função em seus parâmetros.
+    > - Find;
+    > - ForEach;
+    > - Filter;
 
 ### Objetos: 
 
