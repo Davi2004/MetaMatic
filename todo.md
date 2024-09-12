@@ -5,5 +5,5 @@
     - [✓] Metas realizadas
     - [✓] Metas abertas
 - [✓] Marcar/desmarcar metas como concluidas
-- Remover metas
+- [✓] Remover metas
 - Sistema de mensagens
