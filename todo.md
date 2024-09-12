@@ -2,7 +2,7 @@
 
 - [✓] Criar metas
 - [✓] Listar metas
-    - Metas realizadas
+    - [✓] Metas realizadas
     - Metas abertas
 - [✓] Marcar/desmarcar metas como concluidas
 - Remover metas
