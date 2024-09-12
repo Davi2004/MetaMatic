@@ -1,4 +1,4 @@
-## Processo para criação do App de Metas:
+## Processo para criação do App de Metas "MetaMatic":
 
 - [✓] Criar metas
 - [✓] Listar metas
