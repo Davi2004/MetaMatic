@@ -57,6 +57,7 @@ Maneira de dar instruções ao computador. Assim como o lego, você irá utiliza
     > - Find;
     > - ForEach;
     > - Filter;
+    > - Map;
 
 ### Objetos: 
 
